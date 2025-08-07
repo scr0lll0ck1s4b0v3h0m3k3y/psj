@@ -16,7 +16,7 @@
 ## Installation
 ```bash
 # Download + make executable
-curl -L https://raw.githubusercontent.com/scr0lll0ck1s4b0v3h0m3k3y/psj/main/psj.sh > psj
+curl -L https://raw.githubusercontent.com/scr0lll0ck1s4b0v3h0m3k3y/psj/main/psj > psj
 chmod +x psj
 sudo mv psj /usr/local/bin/  # Optional: install globally
 ```
